@@ -548,7 +548,7 @@ export default function Navbar({
               onClick={onAuthOpen}
               className="btn-gold"
               style={{
-                padding: "8px 18px",
+                padding: "10px",
                 borderRadius: "var(--radius-md)",
                 fontSize: "0.78rem",
               }}
