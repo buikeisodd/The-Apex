@@ -9,10 +9,10 @@ import {
 } from "lucide-react";
 
 const stats = [
-  { label: "Beats Available", value: "500+", desc: "ACROSS ALL GENRE" },
-  { label: "Artists Signed", value: "40+", desc: "AND GROWING" },
-  { label: "Studio Hours", value: "10K+", desc: "LOGGED THIS YEAR" },
-  { label: "Chart Hits", value: "80+", desc: "RELEASED" },
+  { label: "Beats Available", value: "500+", desc: "Across all genre" },
+  { label: "Artists Signed", value: "40+", desc: "And growing" },
+  { label: "Studio Hours", value: "10K+", desc: "Logged this year" },
+  { label: "Chart Hits", value: "80+", desc: "Released" },
 ];
 
 const testimonials = [
